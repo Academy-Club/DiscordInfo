@@ -22,11 +22,7 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 - Http, https, request, response, gibi birçok terimi öğren
 
     [Terimlerle ilgili video](https://www.youtube.com/watch?v=PD8r9ISYgQo)
-    
-- İnternet nedir ne işe yarar nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik
-
-    [Oynatma listesi](https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK)
-    
+        
 - Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız bu video güzel
 
     [Kali linux kurulum](https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s) **birde bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.**
