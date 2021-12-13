@@ -15,7 +15,7 @@
 
 
 ## Academy
-Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için discord sunucumuzda düzenli olarak eğitim vermekteyiz. Eğitim vermek isteyen bize ulaşıp onaylandığı takdirde sunucumuzda academy verebilir. https://discord.io/academy-club
+Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için discord sunucumuzda düzenli olarak eğitim vermekteyiz. Eğitim vermek isteyen bize ulaşıp onaylandığı takdirde sunucumuzda academy verebilir. https://discord.io/academyclub
 
 
 ## Nasıl Siber güvenlikçi olurum?
