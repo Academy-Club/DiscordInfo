@@ -4,13 +4,13 @@
 
 |Academy Club|Yetki|Linkler|
 |:---:|:---:|:---:|
-|Atıl Samancıoğlu|Server Admin|[![Atıl Samancıoğlu](https://img.shields.io/badge/HackWare-Discord-black)](https://discord.com/users/722134683650883697)|
-|Aziz Kaplan|Root|[![Aziz Kaplan](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/782245134062321694)|
-|Mustafa Bilgici|Root|[![Mustafa Bilgici](https://img.shields.io/badge/HackWare-Discord-red)](https://discord.com/users/519969314359607319)|
-|Eren|Root|[![Eren](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/729960681293611009)|
-|İlke|Root|[![İlke](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/740638169556451349)|
-|EnesG|Root|[![EnesG](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/266982445029654528)|
-|Escan DNMZ|Root|[![Escan DNMZ](https://img.shields.io/badge/HackWare-Discord-green)](https://discord.com/users/266982445029654528)|
+|Atıl Samancıoğlu|Server Admin|[![Atıl Samancıoğlu](https://img.shields.io/badge/AcademyClub-Discord-black)](https://discord.com/users/722134683650883697)|
+|Aziz Kaplan|Root|[![Aziz Kaplan](https://img.shields.io/badge/AcademyClub-Discord-red)](https://discord.com/users/782245134062321694)|
+|Mustafa Bilgici|Root|[![Mustafa Bilgici](https://img.shields.io/badge/AcademyClub-Discord-red)](https://discord.com/users/519969314359607319)|
+|Eren|Root|[![Eren](https://img.shields.io/badge/AcademyClub-Discord-green)](https://discord.com/users/729960681293611009)|
+|İlke|Root|[![İlke](https://img.shields.io/badge/AcademyClub-Discord-green)](https://discord.com/users/740638169556451349)|
+|EnesG|Root|[![EnesG](https://img.shields.io/badge/AcademyClub-Discord-green)](https://discord.com/users/266982445029654528)|
+|Escan DNMZ|Root|[![Escan DNMZ](https://img.shields.io/badge/AcademyClub-Discord-green)](https://discord.com/users/266982445029654528)|
 
 
 
