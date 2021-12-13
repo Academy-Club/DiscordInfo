@@ -57,7 +57,7 @@ yardım alabilirsiniz
 
 [Android Mobil Geliştirme](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/) **(UDEMY)**
  
-[Python](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/) **(UDEMY)** [Python Notları](https://github.com/Escan-DNMZ/Python-syntax) Notları bizzat biz aldık umarım işinize yarar
+[Python](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) **(UDEMY)** [Python Notları](https://github.com/Escan-DNMZ/Python-syntax) Notları bizzat biz aldık umarım işinize yarar
 
 [Web programlama ve tasarım](https://www.udemy.com/course/komple-web-developer-kursu/) **(UDEMY)** [Javascript notları](https://github.com/Escan-DNMZ/javascript-syntax) | [Jquery notları](https://github.com/Escan-DNMZ/jquery-syntax) Notları bizzat biz aldık umarım işinize yarar
 
