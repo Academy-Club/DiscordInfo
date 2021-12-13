@@ -15,39 +15,35 @@
 
 
 ## Academy
-Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için discord sunucumuzda düzenli olarak eğitim vermekteyiz. Eğitim vermek isteyen bize ulaşıp onaylandığı takdirde sunucumuzda academy verebilir. https://discord.io/academyclub
+Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için discord sunucumuzda düzenli olarak eğitimler verilmekte ve soru cevap paylaşımları yapılmaktadır. Discord sunucumuza bu link üzerinden ulaşabilirsiniz: https://discord.io/academyclub
 
 
 ## Nasıl Siber güvenlikçi olurum?
-- Http, https, request, response, gibi birçok terimi öğren
+
+- Herşeyden önce bu video'ya göz atmanı tavsiye ederiz: [Siber Güvenlik Öğrenme Süreci ve Sertifikalar](https://www.youtube.com/watch?v=cCqZBBZUkYs)
+
+- Başlangıç için Türkiye'nin en çok tercih edilen eğitimlerinden biri olan Atıl Samancıoğlu kursuna göz atmanız önerilir: [Etik Hacker Olma Kursu](https://www.udemy.com/course/etik-hacker-olma-kursu/)
+
+- Http, https, request, response, gibi birçok terimi bu YouTube videosu'nda bulabilirsiniz.
 
     [Terimlerle ilgili video](https://www.youtube.com/watch?v=PD8r9ISYgQo)
         
-- Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız bu video güzel
+- Hacking dünyasında çoğunlukla kullanılan Kali Linux'ün kurulumu için bir video:
 
-    [Kali linux kurulum](https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s) **birde bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.**
+    [Kali linux kurulum](https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s)
     
-- Temel linux komutlarını öğreniniz bunun için
+- Temel linux komutlarını öğrenmek için güzel bir liste:
 
     [Temel linux komutları](https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh) bu oynatma listesi nin yanında birde bunları izledikten sonra [linux-dersleri](https://linux-dersleri.github.io/) burdaki dökümanları da okuyunuz.
 
-- Python öğren [python oynatma listesi](https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS) fakat siber güvenlik için öğreneceksen bu kursu kesinlikle alman lazım. [Python sıfırdan ileri seviye kurs](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) 
+- Python öğrenmek için [Python Oynatma Listesi](https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS) Fakat siber güvenlik için öğrenecekseniz bu kursu kesinlikle almanızı tavsiye ederiz. [Python sıfırdan ileri seviye kurs](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) 
 
-- Bundan sonrasınıda bu kursu alarak öğrenebilirsin.[Etik hacker olma](https://www.udemy.com/course/etik-hacker-olma-kursu/)
-
-- Eğitiminiz sırasında bir sıkıntı yaşarsanır [Hack-ware](https://discord.gg/hackware) discordundan #sss-çözüm den yardım alabilir veya soru kanallarından. 
+- Eğitiminiz sırasında bir sıkıntı yaşarsanır [Academy Club](https://discord.io/academyclub) Discord'undan #sss-çözüm den yardım alabilir veya soru kanallarından. 
 yardım alabilirsiniz
 
-- Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde [tryhackme](https://tryhackme.com/) sitesinde hem öğrenip hemde ctf çözebilirsin.
+- Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bu eğitimi alabilirsiniz: [Sızma Testleri](https://www.udemy.com/course/sizma-testleri/learn/) Sonrasında ise [tryhackme](https://tryhackme.com/) gibi platformlarda hem öğrenip hem de CTF çözebilirsin.
 
-- Kendi alanını seç (web, reverse engineer, mobil, yazılım, vs.)
-
-- Bunlardan sonra artık kendi yolunu çizebilirsin. bol şans :)
-
-## Neden siber güvenlikte python çoğunlukla kullanılıyor.
-
-- Python syntax bakımından çok daha basit ve kullanımı kolaydır.
-- Python çok amaçlı kullanılan, kütüphane bakımından zengin bir dildir.
+- Bunlardan sonra artık kendi yolunu çizebilirsiniz, bol şans :)
 
 ## Nasıl yazılımcı olurum?
 
@@ -58,6 +54,8 @@ yardım alabilirsiniz
 - Yazılıma hangi dili öğrenerek başlanmalı [linke tıklayarak ulaşabilirsin](https://www.youtube.com/watch?v=YHYtyXv1bh4)
 
 **- Bundan sonrasınıda bu kurslardan yararlanabilirsiniz:**
+
+[Android Mobil Geliştirme](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/) **(UDEMY)**
  
 [Python](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/) **(UDEMY)** [Python Notları](https://github.com/Escan-DNMZ/Python-syntax) Notları bizzat biz aldık umarım işinize yarar
 
@@ -98,10 +96,10 @@ yardım alabilirsiniz
 - [Hak5](https://www.youtube.com/user/Hak5Darren)
 </details>
 
-  
-  
+ 
 ### Programlama
 
+- [Atıl Samancıoğlu](https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ)
 - [Sadık Turan](https://www.youtube.com/user/sadikturan41)
 - [Selman Kahya](https://www.youtube.com/channel/UC9Z-Gc_BkYuW75jKcTJICJA)
 - [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
@@ -137,12 +135,11 @@ https://codepen.io/trending
 
 <details>
     <summary>Yararlı github profilleri</summary>
-    
-    
-  [Can değer](https://github.com/LuNiZz/siber-guvenlik-sss) (Siber güvenlik alanında detaylı bilgiler)
-    
+  
   [Atıl samancıoğlu](https://github.com/atilsamancioglu) (Udemy deki ve btk daki eğitimleri hakkında ders notları vb.)
     
+  [Can değer](https://github.com/LuNiZz/siber-guvenlik-sss) (Siber güvenlik alanında detaylı bilgiler)
+        
   [Mehmet D.Ince](https://github.com/mdisec/mdisec-twitch-yayinlari) (Twitch yayınlarında verdiği eğitim ve bilgilerin oynatma listeleri)
     
   [Escan DNMZ](https://github.com/Escan-DNMZ) (javascript syntax ve .Net Core gibi ders notlarını paylaşıyor)
