@@ -55,9 +55,11 @@ yardım alabilirsiniz
 
 **- Bundan sonrasınıda bu kurslardan yararlanabilirsiniz:**
 
+[Python 100 Günlük Yazılım Kampı](https://www.udemy.com/course/python-100-gunluk-yazilim-kampi/?referralCode=03B089E9BDBBF10EF56E) **(UDEMY)**
+
 [Android Mobil Geliştirme](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/) **(UDEMY)**
  
-[Python](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) **(UDEMY)** [Python Notları](https://github.com/Escan-DNMZ/Python-syntax) Notları bizzat biz aldık umarım işinize yarar
+[Python - Siber Güvenlik İçin](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) **(UDEMY)** [Python Notları](https://github.com/Escan-DNMZ/Python-syntax) Notları bizzat biz aldık umarım işinize yarar
 
 [Web programlama ve tasarım](https://www.udemy.com/course/komple-web-developer-kursu/) **(UDEMY)** [Javascript notları](https://github.com/Escan-DNMZ/javascript-syntax) | [Jquery notları](https://github.com/Escan-DNMZ/jquery-syntax) Notları bizzat biz aldık umarım işinize yarar
 
